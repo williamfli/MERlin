@@ -35,6 +35,11 @@ cell boundaries represented in the raw images.
 
 For more information on installation and usage, please see the [documentation](https://emanuega.github.io/MERlin/).
 
+
+## Installation
+git clone this repo
+pip install -e MERlin
+
 ## Authors
 
 * [**George Emanuel**](mailto:emanuega0@gmail.com) - *Initial work* 
