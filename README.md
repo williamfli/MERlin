@@ -40,6 +40,10 @@ For more information on installation and usage, please see the [documentation](h
 git clone this repo
 pip install -e MERlin
 
+## Troubleshooting
+- delete the generated MERlin analysis folder each time when rerunning. Otherwise there will be file name conflicts.
+- if using windows, allow for longer paths, else, snakemake will have problems: https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry
+
 ## Authors
 
 * [**George Emanuel**](mailto:emanuega0@gmail.com) - *Initial work* 
