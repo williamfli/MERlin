@@ -37,8 +37,8 @@ For more information on installation and usage, please see the [documentation](h
 
 
 ## Installation
-git clone this repo
-pip install -e MERlin
+1. git clone this repo
+2. pip install -e MERlin
 
 ## Troubleshooting
 - delete the generated MERlin analysis folder each time when rerunning. Otherwise there will be file name conflicts.
