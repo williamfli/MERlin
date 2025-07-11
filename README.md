@@ -37,6 +37,8 @@ For more information on installation and usage, please see the [documentation](h
 
 
 ## Installation
+conda create -n merlin_env python=3.12
+
 git clone this repo
 
 pip install -e MERlin
